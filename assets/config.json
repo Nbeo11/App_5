@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "css_prefix_text": "",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "4fddedbeb89b99e001b768f6cc01d1b6",
+      "css": "check_box_outline_blank",
+      "code": 59392,
+      "src": "material"
+    },
+    {
+      "uid": "4eae8fd476a77b039a089a1cad8da827",
+      "css": "crop_free",
+      "code": 59393,
+      "src": "material"
+    }
+  ]
+}
